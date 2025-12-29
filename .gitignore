@@ -1,0 +1,29 @@
+# --- Python Environment ---
+venv/
+env/
+.env
+bin/
+lib/
+share/
+include/
+
+# --- Python Caches & Build Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# --- IDE Specifics ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
